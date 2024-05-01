@@ -1,0 +1,23 @@
+.bg-image {
+    background-image: url('./img/banner-bg.jpg');
+    background-color: #000000;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.bg-middle-image {
+    background-image: url('./img/pricing-bg.jpg');
+    background-color: #000000;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.header-margin-bottom {
+    margin-bottom: 5rem;
+}
+.header-margin-top {
+    margin-top: -10rem;
+}
+.header-margin-top-button {
+    margin-top: -1rem;
+}
